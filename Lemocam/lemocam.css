@@ -1,0 +1,72 @@
+.logo {
+    height: 50px;
+    width: 200px;
+}
+
+.navbar-nav {
+    padding-left: auto;
+}
+.bcg {
+    background: url("bcg2.png");
+    background-size: cover;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+}
+.site-bcg {
+    text-align: center;
+    color: white;
+    padding-top: 15rem;
+}
+.site-bcg h1 {
+    padding: 0px ;
+
+    font-size: 60px;
+}
+.site-bcg .btn {
+    margin: 20px;
+    background: skyblue;
+    border-radius: 40px;
+    font-size: 20px;
+    padding: 15px 50px;
+}
+.site-bcg .btn:hover {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
+.blog {
+    background:url('bcg3.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+    width: 100%;
+    background-size: 70%;
+}
+.blog-post {
+    padding-top: 6rem;
+    display: flex;
+}
+.blog-post .blog-content{
+   
+    text-align: center;
+    width: 80%;
+    margin: 3rem 2rem;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+}
+.blog-content .btn1
+{
+    padding: .7rem 2rem;
+background: skyblue;
+border-radius: 30px
+
+}
+
+.card-img-top{
+    height: 301px;
+    width: 300px;
+}
+.btn1:hover{
+background: orange;
+
+}
